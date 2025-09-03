@@ -134,6 +134,6 @@
                     url('https://fonts.cdnfonts.com/s/12674/DS-Digital.woff') format('woff');
                 font-weight: normal;
                 font-style: normal;
-            }
-        `;
+            };
+
         document.head.appendChild(style);
